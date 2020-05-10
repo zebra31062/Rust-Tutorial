@@ -3,13 +3,13 @@
 This repository contains example of the rust programming language.
 
 ##### Example 1
-print a Hello World message
+- print a Hello World message
 
 ##### Example 2
-compile the executable with a cargo project
+- compile the executable with a cargo project
 
 ##### Example 3
-a program for generating 6 random numbers
+- a program for generating 6 random numbers
 
 
 

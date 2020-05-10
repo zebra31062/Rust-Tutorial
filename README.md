@@ -2,18 +2,18 @@
 
 This repository contains example of the rust programming language.
 
-##### Example 1
+###### Example 1
 - print a Hello World message
 
-##### Example 2
+###### Example 2
 - compile the executable with a cargo project
 
-##### Example 3
-- a program for generating 6 random numbers
+###### Example 3
+- guess 6 random numbers in a sequence
 
 
 
-## Cheat sheet
+### Cheat sheet
 
 ```
 cargo new <project name>, create a new rust project with cargo
